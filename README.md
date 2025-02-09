@@ -1,5 +1,9 @@
-# Hi there! 👋 I'm Teja Chalikanti  
+<h1 align="center">Hi there! 👋 I'm Teja Chalikanti</h1>
 
-🚀 **Data Engineer | Software Engineer | AI Enthusiast**  
-🔍 Passionate about **Big Data, Machine Learning, and Cloud Computing**  
-💡 *"It’s not over until it’s over."*  
+<p align="right">
+🚀 <strong>Data Engineer | Software Engineer | AI Enthusiast</strong> <br>
+🔍 Passionate about <strong>Big Data, Machine Learning, and Cloud Computing</strong> <br>
+💡 <i>"It’s not over until it’s over."</i>  
+</p>
+
+---
