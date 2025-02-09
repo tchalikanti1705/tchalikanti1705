@@ -6,11 +6,11 @@
 🚀 <strong>Data Engineer | Software Engineer | AI Enthusiast</strong>
 </p>
 
-<p align="center">
+<p align="left">
 🔍 Passionate about <strong>Big Data, Machine Learning, and Cloud Computing</strong>
 </p>
 
-<p align="center">
+<p align="left">
 💡 <i>“It’s not over until it’s over.”</i>
 </p>
 
