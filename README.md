@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-💡 <i>“It’s not over until it’s over.”</i>
+Motto: <i>“It’s not over until it’s over.”</i>
 </p>
 
 ---
