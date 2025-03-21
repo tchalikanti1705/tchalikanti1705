@@ -23,7 +23,17 @@
 
 ---
 
+## GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&hide=html,css)
+
+## Contribution Streak
+
+![Your GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=tchalikanti1705)
 
 ---
 
