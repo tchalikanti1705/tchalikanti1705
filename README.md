@@ -7,13 +7,9 @@
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, SQL
-- **AI & ML:** TensorFlow, PyTorch, Scikit-learn, NLP
-- **Cloud & Data Engineering:** AWS, Vertex AI, Hadoop, PySpark
-- **Backend & APIs:** Flask, FastAPI, REST APIs
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
-
+- **Languages:** Python, SQL, HTML, CSS, JavaScript, C++, GoLang
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, NLP, Fast API
+- **Technologies:** Hadoop, Apache PySpark, Docker, Git, AWS, GCP, MySQL
 ---
 
 ## 🚀 Currently Working On
@@ -23,17 +19,12 @@
 
 ---
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&hide=html,css)
 
-## Contribution Streak
 
-![Your GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=tchalikanti1705)
 
 ---
 
