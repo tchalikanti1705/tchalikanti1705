@@ -32,7 +32,7 @@
 
 - **LinkedIn:** [linkedin.com/in/teja-chalikanti](https://www.linkedin.com/in/teja-chalikanti-b088351b2/)
 - **GitHub:** [github.com/tchalikanti1705](https://github.com/tchalikanti1705)
-- **Email:** teja.chalikanti@example.com
+- **Email:** tchalikanti@gmail.com
 
 ---
 
