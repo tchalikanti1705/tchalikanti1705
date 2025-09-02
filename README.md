@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Teja Chalikanti  
 
-🚀 **Software Engineer | Problem Solver | Builder of Scalable Systems**  
+ **Software Engineer | Problem Solver | Builder of Scalable Systems**  
 
 I love **coding, solving DSA problems, and building impactful solutions**. I enjoy turning ideas into products — from designing **cloud-native backends** to building **intuitive frontends** to integrating **AI-powered systems**. Passionate about **scalable software, AI, and full-stack development**.  
 
-💡 Always curious to learn, collaborate, and grow while building technologies that make a difference.  
+--> Always curious to learn, collaborate, and grow while building technologies that make a difference.  
 
 ---
 
-## 🔧 Tech Toolbox  
+##  Tech Stack
 
 **Languages:** Python | JavaScript | TypeScript | C | C++ | SQL | HTML/CSS  
 
@@ -24,10 +24,10 @@ I love **coding, solving DSA problems, and building impactful solutions**. I enj
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&hide=html,css&theme=tokyonight)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tchalikanti1705&theme=tokyo-night)
+
 
 ---
 
@@ -39,4 +39,4 @@ I love **coding, solving DSA problems, and building impactful solutions**. I enj
 
 ---
 
-✨ *“It’s not over until it’s over.”*  
+Motto () => { *“It’s not over until it’s over.”* } 
