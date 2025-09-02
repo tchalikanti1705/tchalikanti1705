@@ -27,8 +27,7 @@ I love **coding, solving DSA problems, and building impactful solutions**. I enj
 ## 📊 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&hide=html,css&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tchalikanti1705&theme=tokyonight)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tchalikanti1705&theme=tokyo-night)
 
 ---
 
