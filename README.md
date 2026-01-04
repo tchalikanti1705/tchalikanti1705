@@ -54,14 +54,6 @@
 
 ---
 
-### 📈 GitHub Activity (most reliable)
-<p>
-  <img src="https://streak-stats.demolab.com?user=tchalikanti1705&hide_border=true" height="165" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tchalikanti1705&hide_border=true" />
-</p>
 
 ---
 
