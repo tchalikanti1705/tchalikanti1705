@@ -1,56 +1,60 @@
-<h1 align="center">Hi, I'm Teja Chalikanti 👋</h1>
-
+<h1 align="center">Hi 👋, I'm Teja Chalikanti</h1>
 <p align="center">
   Software Engineer • MS CS @ University at Buffalo • Backend / Full-Stack
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a> •
-  <a href="https://YOUR_PORTFOLIO_LINK/">Portfolio</a> •
-  <a href="https://leetcode.com/YOUR_HANDLE/">LeetCode</a>
+  <img src="https://komarev.com/ghpvc/?username=tchalikanti1705&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### About
-- I build reliable backend systems, APIs, and full-stack apps.
-- Interested in **distributed systems, databases, and product-focused engineering**.
-- Currently working on: **real-time apps + scalable backend projects**.
+### 👨‍💻 About me
+- 🚀 Building scalable backend systems + real-time applications
+- 🧠 Practicing DSA and system design consistently
+- 💡 Interests: Distributed Systems, Databases, APIs, Cloud
 
 ---
 
-### Featured Projects
-> Pin these repos too (keep 4–6 max)
-
-- **Real-Time Collaboration Editor** — live editing, presence, rooms, sync  
-  Tech: WebSockets / Node / React (add your exact stack)  
-  Repo: https://github.com/tchalikanti1705/real-time-collaboration • Demo: YOUR_DEMO_LINK
-
-- **Job/Startup Platform** — search, filters, auth, deployed APIs  
-  Tech: FastAPI / MongoDB / Docker (add your exact stack)  
-  Repo: YOUR_REPO_LINK • Demo: YOUR_DEMO_LINK
-
-- **DSA Prep (structured)** — patterns + solutions + notes  
-  Repo: https://github.com/tchalikanti1705/my-dsa-prepn
-
----
-
-### Tech Stack
-**Languages:** Python, JavaScript/TypeScript, C/C++, Java  
-**Backend:** FastAPI, Node.js, REST APIs, Auth  
-**Databases:** PostgreSQL, MongoDB, DynamoDB  
-**Cloud/DevOps:** AWS, Docker, GitHub Actions  
-**Frontend:** React, Tailwind CSS
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="35"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_HANDLE/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="35"/>
+  </a>
+</p>
 
 ---
 
-### Proof of Work (optional but nice)
-- LeetCode: YOUR_LEETCODE_LINK  
-- Resume: YOUR_RESUME_LINK (PDF or Google Drive public link)
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,fastapi,flask,postgres,mongodb,dynamodb,redis,docker,aws,git,githubactions,linux" />
+</p>
 
 ---
 
-### Contact
-📩 Email: YOUR_EMAIL@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+### ⭐ Featured Projects
+> Pin these repos on your profile for the best look
+
+| Project | What it does | Tech |
+|--------|--------------|------|
+| **Real-Time Collaboration Editor** | Live editing, rooms, presence, sync | WebSockets, React, Node |
+| **RAG on AWS (Production-grade)** | Upload + search + evaluate docs | AWS, Lambda, DynamoDB, pgvector |
+| **Job/Startup Platform** | Filters, onboarding, matching | FastAPI, MongoDB, Docker |
+| **DSA Prep** | Patterns + solutions + notes | Python |
+
+---
+
+### 📊 GitHub Stats (optional but nice)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&theme=default" height="160"/>
+</p>
