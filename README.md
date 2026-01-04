@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja Chalikanti</h1>
+
 <p align="center">
   Software Engineer • MS CS @ University at Buffalo • Backend / Full-Stack
 </p>
@@ -9,26 +10,26 @@
 
 ---
 
-### 👨‍💻 About me
-- 🚀 Building scalable backend systems + real-time applications
-- 🧠 Practicing DSA and system design consistently
-- 💡 Interests: Distributed Systems, Databases, APIs, Cloud
+### 👨‍💻 About Me
+- 🚀 Building scalable backend systems and real-time applications
+- 🧠 Practicing DSA + System Design consistently
+- 💡 Interests: Distributed Systems, Databases, Cloud, APIs
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="35"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="35" />
   </a>
   <a href="https://leetcode.com/YOUR_HANDLE/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="35"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="35" />
   </a>
 </p>
 
@@ -53,9 +54,17 @@
 
 ---
 
-### 📊 GitHub Stats (optional)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&hide_title=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&hide_title=true" height="160" />
+### 📈 GitHub Activity (most reliable)
+<p>
+  <img src="https://streak-stats.demolab.com?user=tchalikanti1705&hide_border=true" height="165" />
 </p>
 
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tchalikanti1705&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contact
+- Email: **YOUR_EMAIL@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/YOUR_LINKEDIN/**
