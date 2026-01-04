@@ -2,6 +2,10 @@
 
 # Software Engineer
 
+# Skills : Python, React, SQL
+
+# DSA - Solver
+
 
 
 
