@@ -53,8 +53,9 @@
 
 ---
 
-### 📊 GitHub Stats (optional but nice)
+### 📊 GitHub Stats (optional)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&hide_title=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchalikanti1705&layout=compact&hide_title=true" height="160" />
 </p>
+
