@@ -58,5 +58,5 @@
 ---
 
 ### 📫 Contact
-- Email: **chalikantiteja@gmail.com@gmail.com**
+- Email: **chalikantiteja@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/teja-chalikanti-b088351b2/**
