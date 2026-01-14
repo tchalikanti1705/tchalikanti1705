@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Teja Chalikanti</h1>
+<h1 align="center">Hi, I'm Teja Chalikanti</h1>
 
 <p align="center">
-  Software Engineer • MS CS @ University at Buffalo • Backend / Full-Stack
+  Software Engineer • Backend / Full-Stack • Product Focused
 </p>
 
 <p align="center">
@@ -42,21 +42,6 @@
 
 ---
 
-### ⭐ Featured Projects
-> Pin these repos on your profile for the best look
-
-| Project | What it does | Tech |
-|--------|--------------|------|
-| **Real-Time Collaboration Editor** | Live editing, rooms, presence, sync | WebSockets, React, Node |
-| **RAG on AWS (Production-grade)** | Upload + search + evaluate docs | AWS, Lambda, DynamoDB, pgvector |
-| **Job/Startup Platform** | Filters, onboarding, matching | FastAPI, MongoDB, Docker |
-| **DSA Prep** | Patterns + solutions + notes | Python |
-
----
-
-
----
-
 ### 📫 Contact
 - Email: **chalikantiteja@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/teja-chalikanti-b088351b2/**
+- LinkedIn: **Teja Chalikanti**
