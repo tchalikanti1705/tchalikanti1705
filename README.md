@@ -50,12 +50,24 @@ That’s what I believe in, because the best products aren’t remembered for th
 
 ###  AI / LLMs
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" height="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="45" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
-  <img src="https://skillicons.dev/icons?i=redis" height="45" />
+
+  <!-- OpenAI -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="48" />
+
+  <!-- RAG (no official icon, using search / retrieval icon) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" height="48" />
+
+  <!-- LangChain -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" />
+
+  <!-- ChromaDB (no official simple-icon yet, using database icon) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" height="48" />
+
+  <!-- Whisper (microphone icon) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" height="48" />
+
 </p>
+
 
 
 
