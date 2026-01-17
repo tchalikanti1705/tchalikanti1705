@@ -48,25 +48,7 @@ That’s what I believe in, because the best products aren’t remembered for th
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,linux" />
 </p>
 
-###  AI / LLMs
-<p align="left">
 
-  <!-- OpenAI -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="48" />
-
-  <!-- RAG (no official icon, using search / retrieval icon) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" height="48" />
-
-  <!-- LangChain -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" />
-
-  <!-- ChromaDB (no official simple-icon yet, using database icon) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" height="48" />
-
-  <!-- Whisper (microphone icon) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" height="48" />
-
-</p>
 
 
 
