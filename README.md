@@ -51,30 +51,25 @@ That’s what I believe in, because the best products aren’t remembered for th
 ### 🤖 AI / LLMs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=openai" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-111?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tchalikanti1705/tchalikanti1705/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/teja-chalikanti-b088351b2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
-  <a href="mailto:chalikantiteja@gmail.com" target="_blank">
+  <a href="mailto:tchalikanti@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="35" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="35" />
-  </a>
-  <a href="https://leetcode.com/YOUR_HANDLE/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="35" />
-  </a>
 </p>
-
----
-
-## 📫 Contact
-- 📧 Email: **chalikantiteja@gmail.com**
-- 💼 LinkedIn: **Teja Chalikanti**
