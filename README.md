@@ -26,43 +26,35 @@ That’s what I believe in, because the best products aren’t remembered for th
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-### 💻 Languages
+###  Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp" />
 </p>
 
-### ⚙️ Frameworks & Backend
+###  Frameworks & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,flask" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,linux" />
 </p>
 
-### 🤖 AI / LLMs
+###  AI / LLMs
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic%20AI-111111?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20APIs-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tchalikanti1705/tchalikanti1705/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
 
 ---
 
