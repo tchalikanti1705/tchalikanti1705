@@ -50,15 +50,18 @@ That’s what I believe in, because the best products aren’t remembered for th
 
 ###  AI / LLMs
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20APIs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" />
 </p>
+
 
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/teja-chalikanti-b088351b2/" target="_blank">
