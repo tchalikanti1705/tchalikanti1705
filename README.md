@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Teja Chalikanti</h1>
+<h1 align="center">Hi there, I'm Teja Chalikanti 👋</h1>
 
 <p align="center">
-  Software Engineer • Backend / Full-Stack • Product Focused
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=TypeScript+%7C+JavaScript+%7C+Python;FastAPI+%7C+Node.js+%7C+AWS;LLMs+%7C+Agentic+AI+%7C+OpenAI+APIs;PostgreSQL+%7C+MySQL" alt="Typing Animation" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tchalikanti1705&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tchalikanti1705&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
