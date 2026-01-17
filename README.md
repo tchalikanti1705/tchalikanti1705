@@ -50,8 +50,11 @@ That’s what I believe in, because the best products aren’t remembered for th
 
 ### 🤖 AI / LLMs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openai" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
 
 ---
 
