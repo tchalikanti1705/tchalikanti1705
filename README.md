@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=React+%7C+TypeScript;FastAPI+%7C+Flask+%7C+Python;RAG+%7C+LLMs+%7C+OpenAI;AWS+%7C+GCP" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=TypeScript+%7C+JavaScript+%7C+Python;FastAPI+%7C+Node.js+%7C+AWS;LLMs+%7C+Agentic+AI+%7C+OpenAI+APIs;PostgreSQL+%7C+MySQL" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tchalikanti1705&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tchalikanti1705&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-##  Who I Am
+## 👨‍💻 Who I Am
 
 I'm a Computer Science graduate student and a **product-minded software engineer** who loves building things that feel effortless to use — and powerful underneath.
 
@@ -28,44 +28,40 @@ That’s what I believe in, because the best products aren’t remembered for th
 
 ##  Skills
 
-### 🧠 Languages  
+###  Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp" />
 </p>
 
-###  Frameworks & Libraries  
+###  Frameworks & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,flask" />
 </p>
 
-###  Databases  
+###  Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-###  Cloud & Tools  
+###  Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,linux" />
 </p>
 
-###  AI / LLM  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" />
-</p>
+
+
+
+
 
 ---
 
-##  Connect With Me
+## Connect with Me
 
 <p align="left">
-  <a href="https://teja-chalikanti.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-  </a>
   <a href="https://www.linkedin.com/in/teja-chalikanti-b088351b2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
   <a href="mailto:tchalikanti@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
   </a>
 </p>
