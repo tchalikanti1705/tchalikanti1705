@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=TypeScript+%7C+JavaScript+%7C+Python;FastAPI+%7C+Node.js+%7C+AWS;LLMs+%7C+Agentic+AI+%7C+OpenAI+APIs;PostgreSQL+%7C+MySQL" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=TypeScript+%7C+JavaScript+%7C+Python;FastAPI+%7C+AWS;LLMs+%7C+Agentic+AI+%7C+OpenAI+APIs;PostgreSQL+%7C+MySQL" alt="Typing Animation" />
 </p>
 
 <p align="center">
