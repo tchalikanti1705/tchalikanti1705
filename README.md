@@ -67,8 +67,8 @@
   <img src="https://streak-stats.demolab.com?user=tchalikanti1705" alt="streak" />
 </p>
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tchalikanti1705&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="trophies" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tchalikanti1705/tchalikanti1705/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tchalikanti1705/tchalikanti1705/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/tchalikanti1705/tchalikanti1705/output/github-snake.svg" />
+</picture>
