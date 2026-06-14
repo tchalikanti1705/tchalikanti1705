@@ -6,15 +6,19 @@
   <img src="https://komarev.com/ghpvc/?username=tchalikanti1705&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-🚀 &nbsp;Software Engineer building **AI agents, voice systems & full-stack products**
+### 👨‍💻 About Me
 
-🌱 &nbsp;Currently working with **LLMs, Agentic AI, Computer-Use Agents & Distributed Systems**
+- 🚀 &nbsp;Backend / full-stack engineer who loves building products that feel **effortless to use, powerful underneath**
+- 🤖 &nbsp;I work across **LLMs, Agentic AI, Voice Agents & Computer-Use Agents**
+- ⚙️ &nbsp;Strong on **system design, APIs at scale & clean architecture**
+- 💡 &nbsp;*"Build for people first — the tech will follow."*
+- 📫 &nbsp;Reach me at **tchalikanti@gmail.com**
 
-### Connect with me:
+### 🔗 Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/teja-chalikanti-b088351b2/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja-chalikanti" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:tchalikanti@gmail.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" />
@@ -24,7 +28,7 @@
   </a>
 </p>
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -36,7 +40,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -51,6 +55,8 @@
 
 <br/>
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=tchalikanti1705&show_icons=true&locale=en&layout=compact" alt="top-langs" />
   &nbsp;&nbsp;
@@ -61,6 +67,8 @@
   <img src="https://streak-stats.demolab.com?user=tchalikanti1705" alt="streak" />
 </p>
 
+### 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tchalikanti1705&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0a4d78&area=true&area_color=cfe8ff&hide_border=true" alt="activity-graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tchalikanti1705&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="trophies" />
 </p>
