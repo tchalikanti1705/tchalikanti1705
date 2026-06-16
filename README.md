@@ -6,13 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=tchalikanti1705&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 👨‍💻 About Me
-
-- 🚀 &nbsp;Backend / full-stack engineer who loves building products that feel **effortless to use, powerful underneath**
-- 🤖 &nbsp;I work across **LLMs, Agentic AI, Voice Agents & Computer-Use Agents**
-- ⚙️ &nbsp;Strong on **system design, APIs at scale & clean architecture**
-- 💡 &nbsp;*"Build for people first — the tech will follow."*
-- 📫 &nbsp;Reach me at **tchalikanti@gmail.com**
+BUILDING
 
 ### 🔗 Connect with me:
 
