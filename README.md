@@ -15,7 +15,7 @@ BUILDING
 <p align="center">
   <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=tchalikanti1705&show_icons=true&locale=en&layout=compact" alt="top-langs" />
   &nbsp;&nbsp; -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="stats" />
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="stats" /> -->
 </p>
 
 <p align="center">
