@@ -10,7 +10,6 @@ BUILDING
 
 <br/>
 
-### 📊 GitHub Stats
 
 <p align="center">
   <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=tchalikanti1705&show_icons=true&locale=en&layout=compact" alt="top-langs" />
