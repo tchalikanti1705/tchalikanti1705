@@ -17,9 +17,6 @@ BUILDING
   <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=tchalikanti1705&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="stats" /> -->
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tchalikanti1705" alt="streak" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tchalikanti1705/tchalikanti1705/output/github-snake-dark.svg" />
